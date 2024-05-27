@@ -1,5 +1,5 @@
 # TELEGRAM KANAL
-DEVELOPER [GhostAttack](https://Telegram.me/DarkNebulaHack) 
+Kanal [DarkNebulaHak](https://Telegram.me/DarkNebulaHack) 
 
 
 
