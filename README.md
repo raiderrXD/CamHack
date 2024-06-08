@@ -7,7 +7,7 @@ Kanal [DarkNebulaHak](https://Telegram.me/DarkNebulaHack)
 
 ### Yükleme : 
 
-` git clone https://github.com/deadcode22/GalleryHack `
+` https://github.com/raiderrXD/GalleryHack `
 
 ` cd GalleryHack `
 
